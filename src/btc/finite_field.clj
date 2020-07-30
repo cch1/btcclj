@@ -1,4 +1,4 @@
-(ns btc
+(ns btc.finite-field
   "Follow along for https://btcclj.com/")
 
 (defrecord FieldElement [e p])
